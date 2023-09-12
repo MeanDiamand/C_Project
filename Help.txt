@@ -1,0 +1,25 @@
+  ___ _  _ ___ _____ ___ _   _  ___ _____ ___ ___  _  _ ___ 
+ |_ _| \| / __|_   _| _ \ | | |/ __|_   _|_ _/ _ \| \| / __|
+  | || .` \__ \ | | |   / |_| | (__  | |  | | (_) | .` \__ \
+ |___|_|\_|___/ |_| |_|_\\___/ \___| |_| |___\___/|_|\_|___/
+
+-When starting the program, the command prompt window will 
+ show the introduction menu containing the list of options
+ that you can choose.
+
+-Select the given options that are appear on the screen by 
+ inputting the number and press Enter key.
+
+-To start the databases, press 1 which is the first option and Enter.
+ The databases menu will be shown which contains the databases options
+ menu.
+
+-Select the given options on the menu by inputting the number and 
+ press Enter key.
+
+-Then, choose the type of day (birthday, anniversary, nameday...etc), 
+ category of users (friend, family, relative...etc),
+ input the firstname, surname of yourself and your partner(in case of
+ anniversary or marriage) and date(in the form of yyyy/mm/dd).
+
+-Press Enter key after you finish inputting your information.

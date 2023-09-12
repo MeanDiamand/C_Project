@@ -1,0 +1,17 @@
+16
+Diamand Mean | None None | Friend | Birthday | 2001/12/4
+Nat Wuttiungsawotai | None None | Friend | Birthday | 1998/7/20
+Vichit Ho | None None | Friend | Birthday | 2002/1/12
+Kimleng Oeur | Dori Nemo | Relative | Anniversary | 2021/9/19
+Elena Ivanko | Peter Pan | Relative | Marriage | 2011/4/15
+Melis Mamataliev | None None | Friend | Birthday | 2002/4/17
+Veronica Collin | Conor Waller | Colleague | Marriage | 2004/12/2
+Bona Khoy | None None | Relative | Birthday | 1963/12/2
+Kim Gookhyeon | Lilien Domokos | Friend | Anniversary | 2019/10/5
+Bruce Wayne | Talia Ah'Ghul | Colleague | Marriage | 2005/12/12
+Gary Plankton | Sally Costa | Colleague | Marriage | 2009/10/9
+Malongvy Mean | None None | Family | Birthday | 1969/12/7
+Julia Helen | Nat Wuttiungsawotai | Friend | Anniversary | 2011/11/11
+Bucky Barne | None None | Friend | Nameday | 2012/11/26
+Viola Kelly | None None | Friend | Birthday | 2000/11/9
+Max Steel | None None | Colleague | Birthday | 2000/1/1

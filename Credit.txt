@@ -1,0 +1,21 @@
+   ___ ___ ___ ___ ___ _____ ___ 
+  / __| _ \ __|   \_ _|_   _/ __|
+ | (__|   / _|| |) | |  | | \__ \
+  \___|_|_\___|___/___| |_| |___/
+     C Programming Databases
+   BIRTHDAYS AND ANNIVERSARY
+
+        Homework Project 
+               of
+      Basic of Programming 1
+ 
+            Created 
+               by
+          Mean Diamand
+
+           Neptun Code
+             KSG25Z
+ 
+            Date of 
+      Starting the Project
+          2022.10.9...

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1671285388 source:c:\bme\5th_semester\basic_of_programming_1\homework\birthday_and_anniversary\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
